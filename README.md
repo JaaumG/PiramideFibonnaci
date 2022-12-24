@@ -28,3 +28,6 @@ and the Fibonnaci sequence was exactly that:
 >0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
 
 So i started the code, but i decide to let the user determinate its origin number and quantity of rows.
+
+
+![image](https://user-images.githubusercontent.com/87271192/209450141-16dd771a-cd68-4b0a-a013-f803221b235d.png)
